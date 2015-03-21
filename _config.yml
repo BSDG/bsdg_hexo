@@ -68,6 +68,6 @@ theme: light
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-    repo: https://github.com/BSDG/bsdg.github.io.git
-    branch: master
-    message:
+  repo: https://github.com/BSDG/bsdg.github.io.git
+  branch: master
+  message:
